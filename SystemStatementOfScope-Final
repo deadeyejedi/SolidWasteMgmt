@@ -1,0 +1,118 @@
+ 
+
+•	Matthew Quillen (Chairperson)
+•	Patrick Harvey
+•	Samarjeet Rai
+•	Tanner Deason
+•	Tyler Parrow
+
+
+
+
+
+
+
+Project for Dickson County Solid Waste Management
+
+Final Draft Due on October 7, 2015
+Timelog
+•	Matthew Quillen
+o	Spent around 2 hours on the “Security and Performance Requirements” section
+o	Spent around 1 hour on combining and editing the rough draft into one cohesive document
+o	Spent around 30 minutes completing the “Timelog” and “Minutes” sections
+•	Patrick Harvey
+o	Spend around 30 minutes on writing his part of the “Functionality” section
+•	Samarjeet Rai
+o	Spent around 1 hour on the Scope statement and a cover page concept
+•	Tanner Deason
+o	Spent around 1 hour on the “Users / Stakeholders” section
+•	Tyler Parrow
+o	Spent around 1 hour on his part of the “Functionality” section and the “Input / Output” section
+
+
+
+
+
+
+Minutes
+Wednesday, September 23, 2015
+Time Spent	Topic(s) Discussed
+12:40 P.M. – 1:25 P.M.	•	Group name and logo
+•	Overall requirements of the project
+•	Division of responsibilities on SSS
+Group members present:
+•	Matthew Quillen
+•	Samarjeet Rai
+•	Tanner Deason
+•	Tyler Parrow
+Decisions made:
+•	Decided to divide up each section of the SSS amongst group members
+Monday, September 27, 2015
+Time Spent	Topic(s) Discussed
+12:30 P.M. – 1:20 P.M.	•	Cover sheet
+•	Current progress on SSS
+•	Questions for our client
+Group members present:
+•	Matthew Quillen
+•	Samarjeet Rai
+•	Tanner Deason
+Decisions made:
+•	Came up with questions for our client on issues such as content, web site logo, and what technology our client’s server uses
+Wednesday, September 30, 2015
+Time Spent	Topic(s) Discussed
+12:40 – 1:20 P.M.	•	Brought everyone up to speed on the SSS and the project’s overall direction
+•	Discussed collaboration tools Slack and GitHub
+•	Discussed application design (briefly)
+•	Discussed further questions for our client during our next meeting
+•	Assessed current progress on the first draft of the SSS
+Group members present:
+•	Matthew Quillen
+•	Patrick Harvey 
+•	Samarjeet Rai
+•	Tanner Deason
+Decisions made:
+•	Decided on a turn-in date for the rough draft and final draft
+I. Scope
+	The Solid Waste Management website design project is a three month project that will create a new website for Dickson County’s solid waste management department.
+Scope of Work
+ This project will create a website for the Solid Waste Management department in Dickson County.   This website will be used to inform the people about solid waste management options, show locations of convenience centers, any media in relation to solid waste management, and display any updates pertaining to solid waste management.  The website should be easily accessible from Google and easy to use and navigate.  The following content will be included:
+•	A page with maps showing the location of convenience centers
+•	Pages with information about solid waste management categories such as recyclables, hazardous waste management, landfill loads, and so on
+•	A fee reduction form
+•	A suggestions page for user feedback
+All of the aforementioned information can be easily accessed just by clicking on links on left side of each page.
+Team Members
+1.	Matthew Quillen
+2.	Patrick Harvey
+3.	Samarjeet Rai
+4.	Tanner Deason
+5.	Tyler Parrow
+II. Functionality
+	The website for Dickson County Waste Management will be above all a tool for providing information to the general public of Dickson County for the all their waste management needs. It will be directly hyperlinked from the Dickson County government’s website and easily accessed from any major search engine. The pages of the website will provide general information in a simple concise manner. 
+	There will be a specific page on with which a user can locate the nearest convenience center and route the shortest path to it. However, the location of all convenience centers will be listed.
+	Also, there will be a page for users to enter their suggestions for the web site (which will be e-mailed to the staff of the web site).
+	The administrator will be able to update information easily. There will be a page with current events and news that will serve as a dynamic way for the administrator to update the site in a general and abstracted method which can cover new events unforeseeable at design-time.
+	The site will be hosted by the Dickson County government on the same servers that their main website is hosted. 
+	The interface of the website will be easily read and usable by any major browser and (while perhaps not optimized) will work on any mobile device.
+
+
+III. Input / Output Data
+	The input for the website will be minimal. By definition, the user will need a URL to locate the site and the site will be made such that it can be accessed easily from any major search engine. There will be a sub-module in the site to allow the user to input his/her address and find the nearest Convenience Center. Depending on limitations of time, maintenance, and required functionality, a mobile user (i.e. from a cellular device with GPS capability) could have this done without input. Finally, the simplest and most common input will be mouse-click based input to hyperlink between different pages on the site. 
+	The output for the website will majorly consist of general information on the home page, with hyperlinks to more specific information. This information should be easily readable, and modular (i.e. can be updated frequently or infrequently). In the case of the map-based sub-module, the output will be the location of the nearest Convenience Center and the quickest path to arrive there. 
+	The client will need to provide information and specification for desired information on the site. The client has also asked for the ability to edit pages and add media (such as videos) to each page. In the case of pictures, the client has requested certain materials be present as a heading. Pictures were provided by the client to use.
+
+
+IV. Users / Stakeholders
+	The users of this system will be the general public. Anyone from a nine year old to a ninety year old. Mainly people from the specific county area, but may be used from people around that area. The website will have a user friendly interface and information the user is seeking will be easy to obtain with a straightforward navigation. Simple maps will be shown for each of the sanitation locations and easy explanation of how to reach them will be displayed. Any up to date web browser will be the only necessity to reach the website. 
+	Any person from the department of sanitation will keep up with maintenance of the website. The administrator will have the ability to change any information such as department locations, phone numbers, closed hours, and any unacceptable items. A user’s manual will be provided with support on maintaining the website.
+V. Security and Performance Requirements
+	The security of the web site can be divided into two components: the unsecured components and the secured components. The unsecured components will consist of documents of static content (in the form of web pages with text and pictures) and the secured components will, potentially, consist of an administrative dashboard, user authentication, and access control. At the current time, we aren’t sure whether or not this web site will require an administrative backend or the ability to create new pages, but an administrator will be in contact soon with the team to assess what technologies we can use. Currently, we are assuming standard HTML and CSS technology to be used.
+	As mentioned before, the unsecured components will primarily consist of web pages with text and pictures. A typical page for this application will consist of mainly a paragraph summarizing the page’s contents with bullet points showing, for example, appropriate waste that can be accepted in the category for that page or waste that must be carried elsewhere or not in that category.
+Moving on to the security of the web site itself, the team has decided to use ordinary HTTP to transmit the majority of the content and HTTPS for the administration. Ideally, HTTP secure should be used for the entire site, but this would be detrimental to the loading speed of each page. Also, since the method for creating and editing the pages actually resides in the administration part of the web site, there is not really a need for the transmission of documents across the entire web site to be encrypted with HTTPS. Now, as for backups of the data, this can be performed with an administrator simply making a backup of the database, as it would contain most, if not all, of the content on the web site (sometimes, for instance, databases save links to images instead of the images themselves). This web site may not even need a database due to the fact that the content is static, which would simplify development. Also, static content requires little to no optimization to be delivered to the user relatively quickly.
+The only security precaution that may need to be taken is ensuring that the pictures cannot be hotlinked from another site to ensure that bandwidth is not drained from the web site’s servers. A JavaScript library should be available to utilize here and prevent this action from occurring.
+So, to summarize, if an administrative backend is required, then security efforts for this project will be centered around an securing an administrative dashboard with options to edit the contents of the pages on the web site and to ensure that images displayed on the web site are reasonably protected.
+	On the subject of performance requirements, the main concern is peak web site usage. Data volume should be minimal, as each page is generally static content in nature, so caching can be used to alleviate even this minimal data load. In short, there are currently no foreseeable problems with database access, if needed, and retrieval of page content in a timely manner. Ideally though, the front page of the site is the most likely to receive updates, and so we should look at caching its contents to further reduce load on the database and save loading time. Another point to bring up is about the section of the web site utilizing Google Maps in order to locate a convenience center nearby. It’s suspected by our group that, in addition to the front page, this part of the web site would come under the heaviest load, as the users of the web site would, after learning about what waste goes where, look for the closest convenience center to take their waste to. The data volume will be offset by the fact that Google Maps is, of course, hosted on Google’s own servers, and our web site will only be querying Google’s servers for information. In summation, the front page and the section of the web site displaying maps to convenience centers would be the two ideal places to concentrate on optimization of performance. As mentioned in the functionality section, the client has requested the ability to edit pages with information and add media to the page (such as a video), but if the server software only supports HTML and CSS, we may be unable to honor the client’s request.
+	To backup the contents of the web site, the solution would be to have an administrator or certified IT technician do regular database backups, assuming a database is used. It is recommended these backups be done monthly. In general, the database for the web site will store the contents of each page as well as the usernames and passwords of all web site staff and editors. The only note to make here is, again, images displayed on the web site. Some databases only store the locations of the images instead of the actual images, so this is an issue that needs to be addressed by the team as quickly as possible.
+
+
+
